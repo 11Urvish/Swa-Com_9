@@ -1,0 +1,34 @@
+{
+	"api": {
+		"errors": {
+			"SomeThingWentWrong": "Something went wrong",
+			"UnAuthorizedRequest": "Unauthorized Request",
+			"UserFirstNameRequired": "api.errors.UserFirstNameRequired",
+			"ApiFailed": "api.errors.ApiFailed",
+			"LoginFailed": "api.errors.LoginFailed",
+			"ContentNotFound": "api.errors.ContentNotFound",
+			"DeleteCustomerFailed": "api.errors.DeleteCustomerFailed",
+			"UpdateUserFailed": "api.errors.UpdateUserFailed",
+			"LoginInvalidValue": "api.errors.LoginInvalidValue",
+			"EmailNotRegister": "api.errors.EmailNotRegister",
+			"email or password incorrect": "api.errors.email or password incorrect"
+		},
+		"msg": {
+			"APISuccess": "Success",
+			"LoginSuccess": "You have successfully Login!",
+			"IncorrectPassword": "You have entered Incorrect Password!",
+			"EmailNotRegistered": "This email is not registered with us!",
+			"ChangePasswordSuccess": "Your password changed successfully!",
+			"Success": "Opration Successful",
+			"CreateUser": "api.msg.CreateUser",
+			"GetIcon": "api.msg.GetIcon",
+			"Login": "api.msg.Login",
+			"GetCandidate": "api.msg.GetCandidate",
+			"UpdateUser": "api.msg.UpdateUser",
+			"DeleteAdmin": "api.msg.DeleteAdmin",
+			"DeleteCustomer": "api.msg.DeleteCustomer",
+			"login": "api.msg.login",
+			"Login successfully": "api.msg.Login successfully"
+		}
+	}
+}
